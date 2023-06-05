@@ -131,12 +131,12 @@ Write html and CSS code for designing book cover page and execute them.
 
 ## Output:
 ![Output](./out.png)
-![out](https://github.com/VijayShankar10/cover-page-design/assets/121999019/2e56a229-d3d9-49d2-85f6-fca00b91b6ce)
+
 
 
 ## HTML Validator:
 ![HTML Validator](./valid.png)
-![valid](https://github.com/VijayShankar10/cover-page-design/assets/121999019/ccc8afaa-1904-4f1e-bfea-0942d2a4a87a)
+
 
 
 ## Result:
